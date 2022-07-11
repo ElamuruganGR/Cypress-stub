@@ -1,0 +1,14 @@
+button {
+    width: 100px;
+    height: 40px;
+    font-size: 14px;
+    margin-top: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: violet;
+    outline: none;
+    border: none;
+    color: black;
+    font-weight: 900;
+    cursor: pointer;
+}
